@@ -3,8 +3,7 @@
 ---
 
 ### :man_technologist: Обо мне:
-
-Я начинающий java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
+Я начинающий java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался с Java на платформе ЯндексПрактикум, где я прошел интенсив. После интенсива понял, что мне необходимы сильные и глубокие знания в Java! С декабря 2022 года по Сентябрь 2023 года я изучал Java разработку на курсах Skypro. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Тьютором на курсе и помогаю новичкам осваивать программирование! 
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>

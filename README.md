@@ -14,7 +14,7 @@
 
 - :zap: Являюсь тьютором на курсе Java-разработки Skypro.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-buyanovmaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BuyanovMaksim) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maxim__90.90@mail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-buyanovmaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BuyanovMaksim) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maxim__90.90@mail.com)
 
 ---
 

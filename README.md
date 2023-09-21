@@ -3,15 +3,15 @@
 ---
 
 ### :man_technologist: Обо мне:
-Я начинающий java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в IT начался с Java на платформе ЯндексПрактикум, где я прошел интенсив. После интенсива понял, что мне необходимы сильные и глубокие знания в Java! С декабря 2022 года по Сентябрь 2023 года я изучал Java разработку на курсах Skypro. В настоящий момент мое обучение на курсе завершено и я нахожусь в поисках работы, параллельно с этим я стал Тьютором на курсе и помогаю новичкам осваивать программирование! 
+Я  java разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 <p align="center">
  <img width="600" src="github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Завершил курсы по профессии Java-разработчик на крупнейшей IT платформе онлайн-обучения Skypro.
 
-- :zap: Являюсь тьютором на курсе Java-разработки Skypro.
+
+- :zap: Являюсь ментором на курсе Java-разработки Skypro.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-buyanovmaksim-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/BuyanovMaksim) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:maxim__90.90@mail.com)
 
